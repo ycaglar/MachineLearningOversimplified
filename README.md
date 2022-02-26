@@ -1,6 +1,6 @@
 <img src="https://github.com/ycaglar/.github/blob/master/badge.png" align="right" width="10%"/>
 
-#  Machine Learning Oversimplified
+#  Machine Learning Scratchpad
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## Overview
