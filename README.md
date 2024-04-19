@@ -1,9 +1,11 @@
 <img src="https://github.com/ycaglar/.github/blob/master/badge.png" align="right" width="10%"/>
 
-#  Machine Learning Scratchpad
+# Machine Learning Scratchpad
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## Overview
+
 A collection of notebooks to learn, experiment and have fun using TensorFlow
 
 <!-- ![Tux](/screenshots/screenshot_n.png) -->
@@ -20,7 +22,8 @@ python app.py
 ``` -->
 
 ## How to Contribute
-Contributions are always welcome. Please take the following steps for your commit.
+
+Contributions are always welcome. Please follow the steps below for your pull request.
 
 1. Fork this project to your account
 2. Create a branch for the change you are proposing
